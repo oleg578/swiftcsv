@@ -1,0 +1,101 @@
+id,product,description,price,qty,date
+1,product_1,"some description",1.23,10,2021-01-01 00:00:00
+2,product_2,null,2.23,20,2021-01-01 00:00:00
+3,product_3,null,3.23,30,2021-01-01 00:00:00
+4,Fusion Modular Vacuum,null,74.21,879,2010-08-07 02:17:57
+5,Robust Stylish Printer,null,17.42,941,2004-01-11 10:26:10
+6,Zen Laptop Boost,null,9.91,879,2020-10-05 05:23:53
+7,Bright Toy X,null,85.82,359,2001-10-16 19:00:42
+8,Maroon Gadget Spark,null,54.01,714,2000-03-23 15:04:01
+9,Copper Teal Bike,null,34.24,655,2019-11-01 16:02:08
+10,Mouse Fusion Bamboo,null,52.93,370,2005-11-29 12:38:38
+11,Fuchsia Bronze Blender,null,99.31,79,2000-02-20 09:12:44
+12,Bronze Yellow Watch,null,32.21,492,2012-05-10 22:07:40
+13,Tool Tech Titanium,null,60.03,880,2002-02-01 18:10:14
+14,Lamp Matrix Granite,null,77.91,248,2022-04-14 02:08:20
+15,Phone Innovative Ultra-Lightweight,null,39.32,161,2020-04-10 05:49:53
+16,Blue Fabric Fitness Tracker,null,31.67,407,2011-04-03 14:00:00
+17,Purple Vacuum Edge,null,99.06,597,2010-04-28 13:05:16
+18,Precision Bike Edge,null,99.55,601,2016-03-06 15:29:46
+19,Olive Titanium Camera,null,13.46,151,2004-10-17 02:45:58
+20,Precision Mixer Connect,null,47.58,573,2007-04-26 01:57:54
+21,Precision Eco-Friendly Drone,null,89.11,911,2011-07-25 09:15:16
+22,Laptop Modular Touchscreen,null,49.05,479,2002-06-26 22:51:24
+23,Porcelain Teal Fan,null,69.30,482,2010-02-11 03:13:58
+24,Blender Tech Alloy,null,28.43,811,2017-04-03 08:15:22
+25,Leather Aqua Vacuum,null,81.42,90,2003-03-08 06:25:56
+26,Bright Gold Thermometer,null,74.20,774,2005-11-29 19:41:47
+27,Smart Home Device Pure High-Performance,null,44.15,775,2013-10-05 03:20:33
+28,Robust Wood Vacuum,null,93.44,141,2008-04-11 04:31:56
+29,Sleek Advanced Fan,null,21.73,112,2018-06-03 09:48:50
+30,Console Boost Felt,null,69.90,440,2022-10-16 01:42:03
+31,Drone Elite Gold,null,61.78,813,2011-12-10 10:23:37
+32,Versatile Felt Microwave,null,54.46,289,2023-07-20 09:49:12
+33,Wireless Speaker Robust,null,6.20,683,2013-11-25 18:55:56
+34,Zen Ceramic Router,null,55.07,241,2014-02-04 10:45:36
+35,Sharp Headphones Matrix,null,38.86,632,2004-11-08 15:32:10
+36,Swift Camera Tech,null,66.49,142,2019-03-27 13:20:39
+37,Router Innovative Biometric,null,95.34,763,2004-09-25 04:27:30
+38,Toy Pure Multi-Functional,null,44.67,951,2011-01-23 04:17:29
+39,Aqua Microwave Fusion,null,80.43,420,2021-06-16 04:44:04
+40,Lime Fan Spark,null,96.41,871,2024-01-31 21:38:51
+41,Max Stream Mouse,null,13.30,353,2015-08-14 22:48:53
+42,Quantum Bright Television,null,79.52,278,2010-07-05 02:38:25
+43,Leather Yellow Fan,null,84.21,339,2024-02-09 10:52:03
+44,Link Smart Speaker,null,73.62,522,2014-12-23 04:40:35
+45,Maroon Glass Monitor,null,37.17,804,2006-12-09 07:06:53
+46,Eco-Friendly Phone Pure,null,40.26,638,2013-05-15 12:33:28
+47,Eco-Friendly Mouse Sleek,null,24.44,716,2001-06-18 06:18:28
+48,Carbon Navy Iron,null,59.94,706,2014-03-09 12:11:22
+49,Ceramic Yellow Fitness Tracker,null,45.37,451,2006-01-22 14:49:16
+50,Suede Aqua Tablet,null,30.57,358,2007-08-06 13:51:57
+51,Dash Robust Bike,null,14.10,553,2009-07-18 11:40:00
+52,Multi-Functional Gadget Robust,null,50.79,968,2011-10-07 22:24:47
+53,Shift Robust Keyboard,null,44.56,177,2009-11-09 01:33:10
+54,Wireless Fan Compact,null,69.69,558,2021-12-11 08:04:08
+55,Router Shift Rubber,null,4.51,301,2003-05-24 15:35:06
+56,Gray Speaker Nexus,null,40.12,473,2001-08-24 01:07:09
+57,Teal Ceramic Smart Speaker,null,42.52,693,2000-07-15 20:56:07
+58,Sharp Phone Sync,null,83.24,640,2019-06-16 18:23:50
+59,White Rubber Vr Headset,null,24.78,470,2005-06-20 10:27:08
+60,Compact Touchscreen Smart Home Device,null,50.43,405,2023-11-03 14:33:43
+61,Mixer Flux Ceramic,null,9.51,189,2022-12-17 22:12:38
+62,Maroon Speaker Tech,null,71.87,887,2011-02-16 11:55:12
+63,Sharp Bamboo Gadget,null,8.04,592,2022-11-16 04:46:21
+64,Luxe Advanced Fridge,null,12.30,821,2010-01-24 02:22:07
+65,Swift Advanced Robot,null,49.85,330,2006-10-30 00:02:06
+66,Purple Brass Keyboard,null,77.86,355,2007-03-03 00:45:43
+67,Green Speaker Connect,null,81.93,150,2015-02-26 13:05:59
+68,Bold Router Fusion,null,40.00,666,2015-12-23 19:11:06
+69,Rubber Yellow Speaker,null,36.76,325,2013-11-27 18:21:32
+70,Swift Multi-Functional Toaster,null,98.81,272,2004-09-08 01:32:50
+71,Quick Plastic Microwave,null,21.69,564,2001-09-06 22:37:05
+72,Compact Plastic Robot,null,38.27,595,2000-03-20 02:11:33
+73,Silver Fridge Connect,null,43.35,488,2017-06-25 15:08:57
+74,Mixer Dash Fabric,null,48.72,351,2023-03-08 21:32:59
+75,Zen Watch Boost,null,72.18,534,2014-04-08 17:50:12
+76,Shift Sharp Lightbulb,null,9.25,943,2006-05-14 07:24:07
+77,Plexiglass Lime Appliance,null,93.16,287,2010-05-04 17:21:43
+78,Plastic White Lightbulb,null,95.83,582,2000-09-01 23:32:13
+79,Smart Gold Appliance,null,17.68,710,2022-11-11 23:03:11
+80,Ultra-Lightweight Blender Bold,null,28.21,631,2006-05-18 02:20:49
+81,Fusion Smart Toy,null,48.60,384,2020-04-29 22:42:26
+82,Teal Iron Pro,null,80.84,853,2001-09-23 00:01:45
+83,Toaster X Glass,null,21.92,374,2017-02-22 16:49:10
+84,Quartz Olive Printer,null,17.87,652,2002-08-20 17:14:14
+85,Watch Plus Stainless,null,25.95,96,2001-02-28 10:46:10
+86,Spark Versatile Clock,null,77.02,857,2001-05-25 17:53:01
+87,Navy Appliance Flux,null,66.42,290,2018-10-19 21:49:18
+88,Sharp Ceramic Console,null,21.37,582,2007-08-22 04:07:00
+89,Carbon Gray Printer,null,90.21,375,2015-08-12 23:42:56
+90,Sharp Laptop Blaze,null,70.07,635,2016-01-19 15:07:05
+91,Precision Smart Bike,null,78.31,701,2002-11-02 19:00:50
+92,Teal Vacuum Boost,null,13.99,460,2005-02-05 07:21:01
+93,Luxe Scale Max,null,19.39,383,2011-03-15 01:45:11
+94,Compact Aluminum Lamp,null,73.86,279,2016-01-17 15:33:59
+95,Ceramic Purple Scale,null,82.79,792,2006-08-04 21:51:10
+96,Gray Suede Shaver,null,72.33,520,2004-08-15 02:00:48
+97,Versatile Wireless Hair Dryer,null,79.69,771,2017-03-20 23:22:44
+98,Connect Bold Oven,null,35.43,717,2016-08-03 19:42:08
+99,Compact Carbon Fan,null,23.79,108,2019-12-15 18:37:12
+100,Robust Bronze Watch,"some description",95.84,137,2017-12-29 20:55:18
