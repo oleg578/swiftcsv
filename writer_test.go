@@ -22,6 +22,14 @@ func TestWriterWrite(t *testing.T) {
 			want:    "a,b,c\n",
 		},
 		{
+			name: "multipleRecords",
+			records: [][]string{
+				{"alpha", "beta"},
+				{"gamma", "delta"},
+			},
+			want: "alpha,beta\ngamma,delta\n",
+		},
+		{
 			name:    "emptyField",
 			records: [][]string{{"", "b"}},
 			want:    ",b\n",
